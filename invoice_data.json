@@ -1,0 +1,16 @@
+{
+    "invoice_number": "INV-3",
+    "invoice_date": "11 Mar 2022",
+    "place_to_supply": "36-TELANGANA",
+    "Billing_address": "Survey 115/1, ISB Rd, Financial District, Gachibowdi, Nanakaramgudayderabad, 36-TELANGANA Hyderaba",
+    "item_1": "Tata Nexon",
+    "item_2": "DECARBONISING GASKET KIT",
+    "HSN": "87038070",
+    "TAX_amount_item1": "739,000.00\n(28%)",
+    "TAX_amount_item2": "761.03 (28%)",
+    "Amount_item_1": "739,000.00",
+    "Amount_item_2": "3,479.00",
+    "Total_Taxable_amount": "5,80,061.75",
+    "Total_IGST": "1,62,417.28",
+    "Total_Amount_Payable": "7,42,479.00"
+}
